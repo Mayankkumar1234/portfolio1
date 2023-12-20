@@ -1,2 +1,2 @@
 # portfolio1
-I will create this portfolio using html and Css
+I create this portfolio using html and Css
